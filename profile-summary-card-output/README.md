@@ -14,15 +14,15 @@ Here are all cards with themes.
 
 
 ```
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/default/most-used-language.svg)
-```
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/default/most-used-language.svg)
-
-
-```
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/default/profile-details.svg)
 ```
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/default/profile-details.svg)
+
+
+```
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/default/repos-per-language.svg)
+```
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/default/repos-per-language.svg)
 
 
 ### solarized
@@ -35,15 +35,15 @@ Here are all cards with themes.
 
 
 ```
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/most-used-language.svg)
-```
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/most-used-language.svg)
-
-
-```
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/profile-details.svg)
 ```
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/profile-details.svg)
+
+
+```
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/repos-per-language.svg)
+```
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/repos-per-language.svg)
 
 
 ### solarized_dark
@@ -56,15 +56,15 @@ Here are all cards with themes.
 
 
 ```
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized_dark/most-used-language.svg)
-```
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized_dark/most-used-language.svg)
-
-
-```
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized_dark/profile-details.svg)
 ```
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized_dark/profile-details.svg)
+
+
+```
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized_dark/repos-per-language.svg)
+```
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized_dark/repos-per-language.svg)
 
 
 ### vue
@@ -77,15 +77,15 @@ Here are all cards with themes.
 
 
 ```
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/vue/most-used-language.svg)
-```
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/vue/most-used-language.svg)
-
-
-```
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/vue/profile-details.svg)
 ```
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/vue/profile-details.svg)
+
+
+```
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/vue/repos-per-language.svg)
+```
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/vue/repos-per-language.svg)
 
 
 ### dracula
@@ -98,15 +98,15 @@ Here are all cards with themes.
 
 
 ```
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/dracula/most-used-language.svg)
-```
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/dracula/most-used-language.svg)
-
-
-```
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/dracula/profile-details.svg)
 ```
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/dracula/profile-details.svg)
+
+
+```
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/dracula/repos-per-language.svg)
+```
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/dracula/repos-per-language.svg)
 
 
 ### monokai
@@ -119,13 +119,13 @@ Here are all cards with themes.
 
 
 ```
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/monokai/most-used-language.svg)
-```
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/monokai/most-used-language.svg)
-
-
-```
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/monokai/profile-details.svg)
 ```
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/monokai/profile-details.svg)
+
+
+```
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/monokai/repos-per-language.svg)
+```
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/monokai/repos-per-language.svg)
 
