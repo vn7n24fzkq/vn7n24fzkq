@@ -4,9 +4,9 @@
 
 尋找 2021 研發替代役職缺
 
-中文CV : shorturl.at/auxZ4
+中文CV : shorturl.at/gDHQV
 
-英文CV : shorturl.at/gjswK
+英文CV : shorturl.at/eiFS0
 
 ![](https://komarev.com/ghpvc/?username=vn7n24fzkq&color=dc143c)
 
