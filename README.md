@@ -6,7 +6,7 @@
 
 中文CV : shorturl.at/gDHQV
 
-英文CV : shorturl.at/lvwU2
+英文CV : shorturl.at/dmAET
 
 ![](https://komarev.com/ghpvc/?username=vn7n24fzkq&color=dc143c)
 
