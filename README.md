@@ -2,8 +2,6 @@
 - 🎓 I am studying for a master's degree.
 - ❤️ I love open source.
 
-尋找 2021 研發替代役職缺
-
 ![](https://komarev.com/ghpvc/?username=vn7n24fzkq&color=dc143c)
 
 ---
