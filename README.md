@@ -1,5 +1,5 @@
 ### Hello there, I'm Casper 👋
-- ❤️ I love open source.
+- I love open source. ❤️ 
 
 ![](https://komarev.com/ghpvc/?username=vn7n24fzkq&color=dc143c)
 
