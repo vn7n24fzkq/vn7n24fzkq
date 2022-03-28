@@ -17,3 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.README }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 8
