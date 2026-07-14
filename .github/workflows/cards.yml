@@ -20,5 +20,6 @@ jobs:
           UTC_OFFSET: 8
           # Only generate the theme this README actually uses...
           THEME: solarized
-          # ...with the "load" entrance animation baked in.
-          ANIMATION: load
+          # ...with a light opacity-only fade (cheapest to render — the heavier
+          # presets like load/sequence stutter as <img>-embedded SVGs).
+          ANIMATION: fade
